@@ -1,0 +1,71 @@
+.hra_modal .modal-dialog {
+    height: 100vh !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    --bs-modal-width: 800px !important;
+}
+
+.hra_modal .modal-content {
+    min-height: 100vh !important;
+
+}
+
+
+.mainBodyOverflow{
+    overflow-x: clip;
+}
+
+/* .accessHover{
+    background: linear-gradient(90.02deg, #428FEC -269.92%, rgba(242, 242, 242, 0) 110.33%) !important;
+}
+
+.accessAfter .actn_bt::after {
+    position: absolute;
+    left: 0;
+    width: 6px;
+    height: 100%;
+    content: "";
+    background: transparent;
+    background: #428FEC;
+} */
+
+
+
+
+
+.line {
+  stroke-width: 2;
+  fill: none;
+}
+
+.axis path {
+  stroke: black;
+}
+
+.text {
+  font-size: 12px;
+}
+
+.title-text {
+  font-size: 12px;
+}
+
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 2px;
+}
+
+.grid line {
+  stroke: lightgrey;
+  stroke-opacity: 0.7;
+  shape-rendering: crispEdges;
+}
+
+.grid path {
+  stroke-width: 0;
+}
+
+.NaN {
+  display: none;
+}

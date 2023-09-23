@@ -1,0 +1,23 @@
+
+
+
+body {
+  background: #F5F5F5;
+  line-height: 20px;
+  font-size: 14px;
+  font-family: 'Inter', sans-serif !important;
+  /* font-family: 'Bree Serif', serif; */
+  font-weight: 400;
+  color: #616161;
+}
+
+
+.loader_wait{
+    position: fixed;
+    display: none;
+    z-index: 99999999;
+    overflow: hidden;
+    height: 100%;
+    top: 0;
+    left: 0;
+}

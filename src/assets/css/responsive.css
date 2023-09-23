@@ -1,0 +1,896 @@
+.nn {
+  display: none;
+}
+
+@media screen and (max-width:1440px) {}
+
+@media screen and (max-width:1366px) {
+
+
+  .logn_dv_in_new {
+    width: 32%;
+  }
+
+  .add_btn button.btn.down_btn {
+    font-size: 14px;
+    padding: 0 5px;
+  }
+
+  .navbar.navbar-bg {
+    width: 20%;
+  }
+
+  .addbulk .btn.down_btn img {
+    height: 18px;
+    width: 17px;
+  }
+
+  .cong_btm_img {
+    height: 280px;
+  }
+
+  .cong_btm_img img {
+    height: 100%;
+  }
+
+  .logn_dv_in {
+    width: 32%;
+  }
+
+  .cong_mid strong {
+    font-size: 34px;
+    margin: 0px 0 20px;
+  }
+
+  .cong_head strong {
+    font-size: 28px;
+  }
+
+  .cong_head h3 {
+    font-size: 34px;
+    line-height: 40px;
+    padding: 20px 0 10px;
+  }
+
+  .cong_mid img {
+    width: 60px;
+  }
+
+  /* .logn_dv_in_lf {
+        width: 54%;
+    
+      } */
+  .campng_pge .src_dv {
+    width: 46%;
+  }
+
+  .campng_pge .src_fld {
+    width: 32%;
+  }
+
+  .campng_pge .add_btn {
+    width: 26%;
+  }
+
+  .participt_pge_to .d-inline-block.src_dv {
+    width: 73%;
+  }
+
+  #ppol_t .edit_dv .ppolcy_hed_tab {
+    width: 76%;
+  }
+
+  .hra_scor_dv .dashboard_top_box:hover .hra_scor strong {
+    font-size: 40px;
+  }
+
+  .bg-white.shadow_d.py-4.px-3.rounded-3.dashboard_top_box {
+    padding: 40px 20px 20px !important;
+  }
+
+  /* 
+  .logn_dv_in_lft h2 {
+    font-size: 25px;
+    margin: 0px 0;
+    line-height: 40px;
+    font-weight: 400;
+  } */
+
+  .logn_dv_in_lft .ic1 {
+    margin-top: 2%;
+  }
+
+  /* .btm_sc p {
+    font-size: 11px;
+  } */
+
+  /* .logn_dv_in_lft h6 {
+    font-size: 14px;
+  } */
+
+  /* .forgt_dv {
+    min-height: 48px;
+  } */
+
+  .logn_dv_in_lft .inputText {
+    height: 46px;
+  }
+
+  .logn_dv_in_lft .floating-label {
+    top: 10px;
+  }
+
+  .logn_dv_in_lft .input-container {
+    height: 100%;
+  }
+
+  .logn_dv_in_lft .submit {
+    height: 46px;
+    /* margin-top: 10px; */
+  }
+
+  .hra_scor strong {
+    font-size: 44px;
+  }
+
+  .hra_scor strong sub {
+    font-size: 14px;
+  }
+
+  .logn_dv_in_lf_wel_img,
+  .login_logo_img {
+    width: 90px;
+    height: auto;
+  }
+
+  .logn_dv_in_lft p {
+    margin-bottom: 5px;
+  }
+
+  .btm_sc {
+    margin-top: 4%;
+  }
+
+  .forgt_dv button {
+    margin: 20px 0;
+  }
+
+  .evalu_hra_scr {
+    width: 95.5%;
+  }
+
+  .logn_dv_in_lft h2 {
+    font-size: 32px;
+    line-height: 48px;
+  }
+
+  .logn_dv_in_lft h6 {
+    font-size: 76%;
+  }
+
+  .logn_dv_in_lft h5 {
+    font-size: 18px;
+
+  }
+
+}
+
+@media screen and (max-width:1024px) {
+
+  .logn_dv_in_lft h2 {
+    font-size: 160%;
+  }
+
+  .logn_dv_in_lft h6 {
+    font-size: 76%;
+  }
+
+  .logn_dv_in_lft input:focus~.floating-label,
+  .logn_dv_in_lft input:not(:focus):valid~.floating-label {
+    font-size: 70%;
+    background: transparent;
+  }
+
+  .logn_dv_in_lft .floating-label {
+    font-size: 70%;
+    top: 8px;
+  }
+
+  .logn_dv_in_lft .inputText {
+    height: 36px;
+    font-size: 90%;
+  }
+
+  .forgt_dv button {
+    font-size: 70%;
+    margin: 14px 0;
+  }
+
+  .btm_sc {
+    bottom: 40px;
+  }
+
+  /* .btm_sc p {
+    font-size: 52%;
+    line-height: 150%;
+  } */
+
+
+  .logn_dv_in {
+    width: 50%;
+    margin: 2% auto 2%;
+  }
+
+  .logn_dv_in_lf {
+    width: 100%;
+    position: absolute;
+  }
+
+  .has-mnu {
+    padding: 20px;
+  }
+
+  .mybody,
+  .mylifestyle,
+  .mymind {
+    width: 200px;
+    background-size: 60px, auto 60px !important;
+  }
+
+}
+
+@media screen and (max-width:900px) {
+  .ttl_wlns {
+    margin: 0 0 20px;
+  }
+
+  .select_age.roumd_radio .siz_typ p {
+    width: 50px;
+  }
+
+  .select_age.roumd_radio .siz_typ p:nth-child(5) label,
+  .select_age.roumd_radio .siz_typ p:nth-child(1) label {
+    width: 50px;
+    height: 50px;
+  }
+
+  .select_age.roumd_radio .siz_typ p:nth-child(4) label,
+  .select_age.roumd_radio .siz_typ p:nth-child(2) label {
+    width: 20px;
+    height: 20px;
+  }
+
+  .select_age.roumd_radio .siz_typ p:nth-child(3) label {
+    width: 10px;
+    height: 10px;
+  }
+}
+
+@media screen and (max-width:768px) {
+  .logn_dv_in_lft h2 {
+    font-size: 24px;
+  }
+
+  .dash_catg_in {
+    width: 100%;
+    margin: 0 0 20px 0;
+  }
+
+  .dash_catg {
+    display: block;
+  }
+
+  .logn_dv_in {
+    width: 90%;
+  }
+
+  .d-btn {
+    display: none !important;
+  }
+
+  #sidebar.sidebar.collapsed {
+    width: 100%;
+    max-width: 100%;
+    height: 100%;
+    left: 0;
+    z-index: 9;
+  }
+
+  #sidebar.sidebar {
+    position: absolute;
+    left: -140px;
+  }
+
+  .nn .icon.icon--transparent {
+    position: absolute;
+    z-index: 9;
+    left: 10px;
+  }
+
+  .nn .icon.icon--transparent.animated.rubberBand.icon--active {
+    right: 10px;
+    left: inherit;
+  }
+
+  .nn {
+    display: block;
+  }
+
+  .breadcum {
+    width: 36%;
+  }
+
+  .comp_list {
+    width: auto;
+  }
+
+  .two_div_con.d-flex {
+    display: block !important;
+  }
+
+  .conpnay_detail_in.side-by {
+    display: block;
+  }
+
+  .conpnay_detail_l {
+    width: 100%;
+  }
+
+  .conpnay_detail_r {
+    width: 100%;
+    margin-top: 10px;
+  }
+
+  .conpnay_detail_l::after {
+    bottom: 0;
+    width: 100%;
+    right: inherit;
+    border-right: 0;
+    border-bottom: 1px solid #D7D7D7;
+  }
+
+  .comp_dashboard_box {
+    margin-bottom: 20px;
+  }
+
+  .hdng-btm {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .src_fld,
+  .src_dv {
+    width: 49%;
+    margin-bottom: 10px;
+  }
+
+  .table_compny .table>tbody>tr>td:last-child button.mx-5 {
+    margin: 0 10px !important;
+  }
+
+  .table_compny .table>tbody>tr>td:last-child {
+    display: inline-block;
+    vertical-align: middle;
+  }
+
+  .congratuln_dv {
+    display: block;
+  }
+
+  .content-congramymind .congratuln_dv_lf {
+    position: relative;
+    width: 100%;
+  }
+
+  .congratuln_dv_rit {
+    width: 100%;
+    position: relative;
+  }
+
+  .congratuln_dv_lf img {
+    position: relative;
+    bottom: 0;
+  }
+
+  .content-congramymind .congratuln_dv_lf p {
+    display: none;
+  }
+
+  .congratuln_dv_lf h3 {
+    margin: 0;
+    padding: 30px 0;
+  }
+
+  .cong_div_sec .cong_head p {
+    margin: 0;
+  }
+
+  .content-congramybody .congratuln_dv_lf {
+    position: relative;
+    width: 100%;
+  }
+
+  .cong_div_sec button.btn.btn-lg {
+    left: 0;
+    right: 0;
+    bottom: 10px;
+    margin-top: 30px !important;
+    margin-bottom: 20px;
+  }
+
+  .content-congramylifestyle .congratuln_dv_lf {
+    position: relative;
+    width: 100%;
+  }
+
+  .logn_dv_in_lf {
+    display: none;
+  }
+
+  .logn_dv_in,
+  .logn_dv_in_new {
+    width: 90%;
+    margin: 5% auto 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    padding: 16px;
+    position: absolute;
+  }
+
+  /* .logn_dv_in,
+  .logn_dv_in_new {
+    width: 80%;
+    margin: 50px auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    padding: 16px;
+    position: relative;
+  } */
+
+  .logn_dv_in_lft #form1 .forgt_dv {
+    min-height: inherit;
+  }
+
+  .logn_dv_in_lft .input-container {
+    height: auto;
+  }
+
+  .qstn_sec {
+    margin: 20px 0 0;
+  }
+
+  /* .qstn_sec_hed .nav-link.dropdown-toggle.d-none.d-sm-inline-block {
+    display: block !important;
+  } */
+
+  .qstn_sec_hed .dropdown-menu.dropdown-menu-end.show {
+    top: -8px !important;
+    padding: 10px;
+    width: 170px;
+  }
+
+  .qstn_sec_hed .dropdown-menu.dropdown-menu-end.show p {
+    font-family: 'Inter', sans-serif;
+    color: #000;
+  }
+
+  /* hra */
+  .main_div.hra_pgese {
+    display: block;
+  }
+
+  .main_div.hra_pgese .logn_dv_in_lf {
+    display: none;
+  }
+
+  .main_div.hra_pgese .logn_dv_in {
+    height: 100%;
+    width: 100%;
+    box-shadow: 0 0;
+    top: 0;
+    margin: 0;
+    border-radius: 0;
+    position: absolute;
+    padding-top: 30px;
+  }
+
+  /* hra end */
+  .caro_div_con {
+    display: block;
+  }
+
+  .caro_im_in {
+    width: 100%;
+    margin: 10% 0% 2%;
+  }
+
+  .caro_im_in:last-child {
+    margin-bottom: 100px;
+  }
+
+  .cong_div_sec .carousel .control-dots {
+    bottom: 100px;
+  }
+}
+
+@media screen and (max-width:700px) {
+  .clk_headng .nav-link.dropdown-toggle.d-none.d-sm-inline-block {
+    display: block !important;
+  }
+
+  .comp_list {
+    display: block;
+  }
+
+  .navbar.navbar-bg {
+    display: none !important;
+  }
+
+  .indicator_div_pop {
+    left: 30px;
+    padding: 20px;
+    top: 204px;
+    width: 270px;
+  }
+
+  .mnu_hmb {
+    left: 30px;
+    top: 15px;
+  }
+
+  .indicator_div_pop.pop_secnd {
+    padding: 20px;
+    left: 21px;
+    top: 70px;
+    width: 270px;
+  }
+
+  .has-mnu {
+    padding: 9px;
+  }
+
+  .cong_head strong {
+    font-size: 22px;
+    line-height: 30px;
+  }
+
+  .health-risk-cong .cong_div_sec button.btn.btn-lg {
+    /* bottom: 20px; */
+    right: 0;
+    left: 0;
+    margin: 0 auto;
+    width: 100%;
+    position: absolute;
+  }
+
+  #carouselExampleIndicators {
+    padding: 0 0 112px;
+  }
+
+  .cong_div_sec .carousel-indicators {
+    bottom: 0 !important;
+    position: relative;
+  }
+
+  .cong_div_sec {
+    padding-bottom: 0px;
+  }
+
+  .cong_btm_img.caro_im {
+    padding-bottom: 60px;
+    display: block;
+  }
+
+  .caro_im_in {
+    width: 100%;
+    margin: 4% 0% 2%;
+  }
+
+  .send_fed input {
+    width: 90%;
+  }
+
+  .cong_div_sec button.btn.btn-lg {
+    width: 100%;
+  }
+
+  .cong_mid strong {
+    margin: 0 0 10px;
+    font-size: 26px;
+    line-height: 30px;
+  }
+
+  .cong_head h3 {
+    padding: 30px 0;
+  }
+
+  .qstn_sec_hed {
+    font-size: 14px;
+    line-height: 16px;
+    margin-bottom: 20px;
+    width: 100%;
+    min-height: 100%;
+    display: block;
+  }
+
+  .qstn_btn.butn_dv {
+    display: block;
+    margin-top: 100px;
+    text-align: center;
+  }
+
+  .qstn_btn.butn_dv button.btn.btn-lg {
+    width: 100%;
+    margin: 0px 0 0;
+  }
+
+  .select_gnd .gndr .col label {
+    width: 70px;
+    height: 70px;
+  }
+
+  .select_gnd .gndr .col img {
+    width: 100%;
+    height: 100%;
+    display: block;
+  }
+
+  .select_gnd .gndr .tick {
+    height: 70px;
+    width: 70px;
+  }
+
+  .select_age {
+    width: 100%;
+  }
+
+  .select_age .siz_typ p {
+    width: 100%;
+    margin: 0 0px 20px;
+  }
+
+  .select_msr,
+  .select_msr_in {
+    width: 100%;
+  }
+
+  .select_msr_in {
+    display: block;
+  }
+
+  .qstn_sec_hed span {
+    font-size: 16px;
+  }
+
+  .select_age.water_radio {
+    width: 100%;
+  }
+
+  .select_age.water_radio .siz_typ p {
+    width: 100%;
+    text-align: center;
+  }
+
+  .select_age.water_radio .siz_typ label {
+    margin: 0 auto;
+  }
+
+  .select_age.roumd_radio .siz_typ p {
+    width: 100%;
+  }
+
+  .select_age.roumd_radio {
+    width: 100%;
+  }
+
+  .select_age.roumd_radio .siz_typ {
+    display: block;
+  }
+
+
+
+  .select_age.roumd_radio .siz_typ p {
+    width: 100%;
+    margin: 0 auto 20px;
+  }
+
+  .select_age.roumd_radio .siz_typ p {
+    width: 100%;
+  }
+
+  .select_age.roumd_radio .siz_typ p:nth-child(1) label,
+  .select_age.roumd_radio .siz_typ p:nth-child(5) label {
+    width: 73px;
+    height: 73px;
+  }
+
+  .select_age.roumd_radio .siz_typ p:nth-child(2) label,
+  .select_age.roumd_radio .siz_typ p:nth-child(4) label {
+    width: 64px;
+    height: 64px;
+  }
+
+  .select_age.roumd_radio .siz_typ p:nth-child(3) label {
+    width: 48px;
+    height: 48px;
+  }
+
+  .CircularProgressbar {
+    width: 100% !important;
+  }
+
+  .select_msr_in {
+    border-radius: 16px;
+    padding: 10px;
+  }
+
+  .logn_dv_in_lft .otp .input {
+    text-align: center;
+    padding: 4px 10px 0;
+  }
+
+  .select_msr .select_msr_icn img {
+    width: 86%;
+  }
+
+  .select_msr_con {
+    width: 100%;
+  }
+
+  /* .qstn_sec_selct {
+    min-height: 100%;
+  } */
+
+  /* .mob_resp .qstn_sec_selct{min-height: inherit;} */
+
+  .incr_dic input.form-control {
+    font-size: 18px;
+  }
+
+  .logn_dv_in_lf_wel_img {
+    width: 120px;
+    height: 120px;
+    margin: 0 auto;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+  }
+
+  .logn_dv_in_lft img {
+    margin: 0px auto;
+    height: 100%;
+  }
+
+  .health-risk-cong .cong_btm_img {
+    padding-bottom: 0;
+  }
+
+  .health-risk-cong .carousel {
+    padding: 0 0 30px;
+  }
+
+  .health-risk-cong .carousel .cong_div_sec .carousel-indicators {
+    position: absolute;
+    bottom: 80px !important;
+  }
+
+  .health-risk-cong .risk_below p {
+    padding: 20px 0;
+  }
+
+  /* .logn_dv_in_lft h6 {
+    font-size: 14px;
+  } */
+
+  .comp_rit_log {
+    width: 70px;
+    height: 70px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+  }
+
+  .comp_rit_log img {
+    display: block;
+    height: 100%;
+  }
+
+  .has-mnu ul li button {
+    font-size: 14px;
+    text-align: left;
+    margin: 0;
+  }
+
+  .clk_headng .dropdown-menu.dropdown-menu-end.show {
+    width: 100%;
+  }
+
+  .coln_to_knw ul,
+  .persn_dtl_op>ul {
+    padding: 0;
+  }
+
+  .persn_dtl_op>ul li {
+    width: 20px;
+    height: 20px;
+  }
+
+  .coln_to_knw li {
+    font-size: 12px;
+  }
+
+  .hraquestionSection .content {
+    padding: 10px;
+  }
+
+  .select_mstus .portyp p label,
+  .select_age .siz_typ label,
+  .clk_headng strong {
+    font-size: 14px;
+  }
+
+  .qstn_sec_selct .water_radio .siz_typ p strong,
+  .select_age.roumd_radio .siz_typ p strong,
+  .select_gnd .gndr .col.text-center strong {
+    font-size: 14px;
+  }
+
+  #nest {
+    left: 0;
+    right: 0;
+    top: 30%;
+    margin: 0 auto;
+  }
+
+  .select_msr_con_in strong {
+    font-size: 12px;
+  }
+
+  .select_msr_in select {
+    font-size: 10px;
+  }
+
+  .select_msr_icn {
+    width: 50px;
+    margin: 0 auto;
+  }
+
+  .measure_range {
+    padding: 0 10px;
+  }
+
+  .select_gnd .gndr .col.text-center {
+    margin: 0 26px 0 0;
+  }
+
+  .select_mstus .portyp p {
+    margin: 0;
+  }
+
+  .qstn_sec_hed a.nav-link.dropdown-toggle.d-none.d-sm-inline-block {
+    display: inline-block !important;
+  }
+
+  .qstn_sec_hed a ins {
+    background-color: transparent;
+    color: #000;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: initial !important;
+  }
+  .cong_div_sec.mobile_cong .cong_btm_img img{margin-top: 80px;}
+  .cong_div_sec .spinner__circle {
+    width: 60px;
+    height: 60px; 
+  }
+  .cong_div_sec .spinner__circle-inner, .cong_div_sec .spinner__circle-gradient {
+    width: 50px;
+    height: 50px;
+  }
+}
